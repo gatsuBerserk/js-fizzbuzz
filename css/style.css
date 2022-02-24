@@ -1,0 +1,11 @@
+div.box{
+    width: 150px;
+    height: 150px;
+    background-color: tomato;
+    color: yellow;
+    font-size: 1.5rem;
+
+}.my-gradient{
+    background: rgb(34,193,195);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); 
+}
